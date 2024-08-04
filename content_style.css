@@ -1,0 +1,479 @@
+.back{
+    background-image: url("slider1.jpg");
+    height: 400px;
+    background-repeat:no-repeat;
+    background-size: cover;  
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+}
+.local{
+    background-color: white;
+    font-size: 14px;
+    color: #0F1111;
+    height: 40px;
+    text-align: center;
+    width: 80%;
+    margin-bottom: 25px;
+
+}
+.amazon{
+    color: #007185;
+    text-decoration: none;
+    font-size: 14px;
+}
+.row1{
+    height: 400px;
+    display: flex;
+    /* border:5px solid red; */
+    justify-content: space-evenly;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(245, 226, 229);
+
+}
+
+.one{
+    height: 350px;
+    width: 330px;
+    /* border: 2px solid black; */
+    background-color: white;
+    font-family: arial;
+}
+.one1{
+    height: 350px;
+    width: 330px;
+}
+.game1{
+    height: 40px;
+    width: 330px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 17px;
+    box-sizing: border-box;
+   
+}
+.game2{
+    height: 135px;
+    width: 330px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 8px;
+    box-sizing: border-box;
+}
+.game3{
+    height: 135px;
+    width: 330px;
+    padding-left: 8px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+}
+.game4{
+    height: 40px;
+    width: 330px;
+
+    padding-top: 6px;
+    padding-left: 17px;
+    box-sizing: border-box;
+}
+.head{
+    height: 135px;
+    width: 150px;
+
+}
+.head_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("gaming.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head_text{
+    height: 25px;
+    font-size: 14px;
+
+}
+.board_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("keyboard1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mice_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("mice.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.chair_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("chair.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color:#007185;
+    font-size: 16px;
+
+}
+.dine_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("dining.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kitchen_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("kitchen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.health_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("health.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.new_year{
+    height: 240px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-image: url("new\ year.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.deal{
+    height: 240px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-image: url("pcs.jpg");
+    background-size: cover;   
+}
+.row2{
+    height: 400px;
+    display: flex;
+    /* border:5px solid red; */
+    justify-content: space-evenly;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(245, 226, 229);
+
+}
+.dress_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("dress.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.knit_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("knit.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jacket_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("jacket.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jewel_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("jewel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lunar_pic{
+    height: 240px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-image: url("lunar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.toy_pic{
+    height: 240px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-image: url("toys.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top_pic{
+    height: 240px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-image: url("topdeal.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.one9{
+    height: 400px;
+    width: 100%;
+    background-color: yelllow;
+}
+.row3{
+    height: 400px;
+    background-color: rgb(245, 226, 229);
+    /* padding-top: 20px;
+    padding-left: 30px;
+    box-sizing: border-box; */
+    padding-left: 45px;
+}
+.row4{
+    height: 400px;
+    background-color: rgb(245, 226, 229);
+    padding-left: 45px;
+}
+.one9{
+    height: 360px;
+    width: 96.5%;
+   
+    /* background-color: yellow; */
+  
+}
+.one10{
+    height: 360px;
+    width: 96.5%;
+    /* background-color:blue; */
+}
+.heading{
+    height: 60px;
+    /* background-color: yellow; */
+    font-size:25px;
+    font-weight:bold;
+    padding-top: 10px;
+    box-sizing: border-box;
+    padding-left: 36px;
+}
+.material{
+    height: 300px;
+    /* background-color: palevioletred; */
+    padding: 15px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+}
+.material_box{
+    height: 260px;
+    width: 200px;
+    /* border: 2px solid black; */
+}
+.box1{
+    background-image: url("bs1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box2{
+    background-image: url("bs2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box3{
+    background-image: url("bs3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box4{
+    background-image: url("bs4.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box5{
+    background-image: url("bs7.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box6{
+    background-image: url("bs6.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box7{
+    background-image: url("book1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box8{
+    background-image: url("book2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box9{
+    background-image: url("book3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box10{
+    background-image: url("book4.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box11{
+    background-image: url("book5.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box12{
+    background-image: url("book6.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.row5{
+    height: 400px;
+    display: flex;
+    /* border:5px solid red; */
+    justify-content: space-evenly;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(245, 226, 229);
+
+}
+.row6{
+    height: 400px;
+    background-color: rgb(245, 226, 229);
+    /* padding-top: 20px;
+    padding-left: 30px;
+    box-sizing: border-box; */
+    padding-left: 45px;
+}
+.row7{
+    height: 400px;
+    background-color: rgb(245, 226, 229);
+    padding-left: 45px;
+}
+.box13{
+    background-image: url("bs1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box14{
+    background-image: url("bs2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box15{
+    background-image: url("bs3.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box16{
+    background-image: url("bs4.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box17{
+    background-image: url("bs7.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box18{
+    background-image: url("bs6.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box19{
+    background-image: url("pillows2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box20{
+    background-image: url("bs8.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box21{
+    background-image: url("bs9.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box22{
+    background-image: url("pillow.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box23{
+    background-image: url("candles.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.box24{
+    background-image: url("5.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.brush_pic{
+    height: 240px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-image: url("brush.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.wall_pic{
+    height:110px;
+    width: 130px;
+    background-image: url("wall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.throw_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("pil.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.out_pic{
+    height:110px;
+    width: 130px;
+    background-image: url("out.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gar_pic{
+    height:110px;
+    width: 140px;
+    background-image: url("gar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.laptop_pic{
+    height: 240px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-image: url("laptop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.comp_pic{
+    height: 240px;
+    margin: 15px;
+    box-sizing: border-box;
+    background-image: url("comp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

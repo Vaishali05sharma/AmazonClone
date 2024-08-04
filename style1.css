@@ -1,0 +1,132 @@
+.gaming{
+    background-color: white;
+    width: auto;
+}
+.game11{
+    height: 40px;
+    /* background-color: yellow; */
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 6px;
+}
+.game12{
+    height: 300px;
+    /* width: 60%; */
+    background-color: yellow;
+    display: grid;
+}
+.pic11{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    /* background-color: pink; */
+
+}
+.pic12{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    /* background-color: orange; */
+}
+.pic13{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    /* background-color: purple; */
+}
+.pic14{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    /* background-color: pink; */
+}
+.game13{
+    height: 30px;
+    /* background-color: yellow; */
+    padding-top: 10px;
+}
+.vaishali{
+    height: 100px;
+    /* width: 100px; */
+    background-color: white;
+    /* padding: 10px; */
+    
+}
+.one{
+    background-color:white;
+    
+}
+.headset{
+    background-image: url("gaming.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.board{
+    background-image: url("keyboard1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.mice{
+    background-image: url("mice.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.chair{
+    background-image: url("chair.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.write{
+    font-size: 14px;
+}
+.new_supply{
+    /* width: auto; */
+    background-color: yellow;
+    padding: 10px;
+}
+.new{
+    height: 30px;
+    /* background-color: yellow; */
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 6px;
+}
+.year{
+    height: 300px;
+    /* width:300px; */
+    background-image: url("new\ year.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* margin-left: 10px; */
+    /* padding-left: 10px; */
+
+}
+.deal{
+    height: 300px;
+    background-image: url("pcs.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 10px;
+}
+.kitchen{
+    background-image: url("kitchen.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.health{
+    background-image: url("health.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.dining{
+    background-image: url("dining.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.home{
+    background-image: url("home.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.toy{
+    background-image: url("toys.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
